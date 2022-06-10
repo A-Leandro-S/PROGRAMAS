@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\Sistema de estacionamiento\Sistema de estacionamiento\bin\Debug\Sistema de estacionamiento.exe.config
+C:\Users\ASUS\source\repos\Sistema de estacionamiento\Sistema de estacionamiento\bin\Debug\Sistema de estacionamiento.exe
+C:\Users\ASUS\source\repos\Sistema de estacionamiento\Sistema de estacionamiento\bin\Debug\Sistema de estacionamiento.pdb
+C:\Users\ASUS\source\repos\Sistema de estacionamiento\Sistema de estacionamiento\obj\Debug\Sistema de estacionamiento.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Sistema de estacionamiento\Sistema de estacionamiento\obj\Debug\Sistema de estacionamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Sistema de estacionamiento\Sistema de estacionamiento\obj\Debug\Sistema de estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Sistema de estacionamiento\Sistema de estacionamiento\obj\Debug\Sistema de estacionamiento.exe
+C:\Users\ASUS\source\repos\Sistema de estacionamiento\Sistema de estacionamiento\obj\Debug\Sistema de estacionamiento.pdb
